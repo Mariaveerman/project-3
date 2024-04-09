@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#pageheader {
+    width: 100%;
+    height: 10%;
+}
+
+#content {
+    height: 90%;
+    width: 100%;
+}
+
+.img-fluid {
+    position: absolute;
+    left: 2%;
+    top: 3%;
+    height: 100px;
+    object-fit: contain;
+    border-radius: 10%;
+
+}
+
+.greenbalk {
+    background-color: #89A353;
+    height: 140px;
+
+}
+
+#content {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    border: solid #89A353;
+    border-radius: 10px;
+    width: 25%;
+    height: 35%;
+    font-size: 25px;
+    text-align: center;
+}
+.kop{
+    color: #38281C;
+}
+#btn {
+    position: absolute;
+    left: 70%;
+    width: 80px;
+    height: 40px;
+    background-color: #38281C;
+    border-radius: 10px;
+    border: #38281C;
+    color: #ffffff;
+    font-size: 15px;
+}
+.naam{
+    font-size: 15px;
+}
+.key{
+    position: absolute;
+    width: 90px;
+    height: 50px;
+    background-color: #89A353;
+    border-radius: 5px;
+    border:#89A353;
+}
+#nul{
+    position: absolute;
+    left: 10%;
+    bottom: 3%;
+}
+#acht{
+    position: absolute;
+    left: 10%;
+    bottom: 13%;
+}
+#vijf{
+    position: absolute;
+    left: 10%;
+    bottom: 23%;
+}
+#een{
+    position: absolute;
+    left: 3%;
+    bottom: 33%;
+}
+#twee{
+    position: absolute;
+    left: 10%;
+    bottom: 33%;
+}
+#vier{
+    position: absolute;
+    left: 3%;
+    bottom: 23%;
+}
+#zeven{
+    position: absolute;
+    left: 3%;
+    bottom: 13%;
+}
+#drie{
+    position: absolute;
+    left: 17%;
+    bottom: 33%;
+}
+#zes{
+    position: absolute;
+    left: 17%;
+    bottom: 23%;
+}
+#negen{
+    position: absolute;
+    left: 17%;
+    bottom: 13%;
+}
+#zoekterm{
+    position: absolute;
+    left: 3%;
+    bottom: 43%;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    border: solid #38281C;
+}
+.zoek{
+    position: absolute;
+    width: 90px;
+    height: 50px;
+    background-color: #38281C;
+    border-radius: 5px;
+    border:#38281C;
+    color: #fff;
+    left: 3%;
+    bottom: 3%;
+}
+.tekst{
+    position: absolute;
+    top: 45%;
+    left: 3%;
+}
+.teksten{
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+.knop_klik{
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    background-color: #89A353;
+    border-radius: 5px;
+    border:#89A353;
+    top: 45%;
+    left: 13%;
+}
+.voorraat a { 
+    position: absolute;
+    top: 8%;
+    left: 30%;
+    text-decoration: none;
+    color: #38281C;
+    font-size: 40px;
+}
+.voorraat_toevoegen a { 
+    position: absolute;
+    top: 8%;
+    left: 42%;
+    text-decoration: none;
+    color: #38281C;
+    font-size: 40px;
+}
+.uitloggen a { 
+    position: absolute;
+    top: 8%;
+    left: 65%;
+    text-decoration: none;
+    color: #38281C;
+    font-size: 40px;
+}
